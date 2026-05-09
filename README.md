@@ -33,8 +33,10 @@ nanoRAG/
 ## 🚀 Быстрый старт
 ## 1. Установка
 
-git clone [https://github.com](https://github.com/NameInit/nanoRAG.git)
+git clone https://github.com/NameInit/nanoRAG.git
+
 cd nanoRAG
+
 pip install -r requirements.txt
 
 ## 2. Обучение
