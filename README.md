@@ -30,9 +30,10 @@ nanoRAG/
 ├── inference.py                # Запуск модели для генерации
 └── requirements.txt            # Список зависимостей
 
-## 🚀 Быстрый старт## 1. Установка
+## 🚀 Быстрый старт
+## 1. Установка
 
-git clone https://github.com
+git clone [https://github.com](https://github.com/NameInit/nanoRAG.git)
 cd nanoRAG
 pip install -r requirements.txt
 
